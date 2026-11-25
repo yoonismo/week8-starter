@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+causaldata
+statsmodels
+scikit-learn
+joblib
+doubleml
+ipykernel
+nbconvert
